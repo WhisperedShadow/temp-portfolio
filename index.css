@@ -40,16 +40,18 @@ footer {
     color: white;
 }
 
-.col-md-4{
+.it{
     margin: 1rem 0;
     animation: fade;
     animation-timeline: view(70% auto);
 }
 
-.col-md-4:hover{
+.it:hover{
     scale: 1.2;
     color: #3498db;
 }
+
+
 
 section{
     animation: fade;
